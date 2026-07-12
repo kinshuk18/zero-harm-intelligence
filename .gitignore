@@ -1,0 +1,7 @@
+venv/
+.env
+data/raw/*.csv
+data/processed/*.json
+backend/models/*.pth
+backend/models/*.npy
+__pycache__/
