@@ -392,7 +392,6 @@ This fires a **Safe Payload** and a **Compound Hazard Payload** at the running s
 
 ## 🗺️ Roadmap
 
-- [x] ~~Build companion React + Vite dashboard~~ ✅ Shipped
 - [ ] Replace synthetic SCADA generator with real-time OPC-UA / Modbus ingestion
 - [ ] Swap simulated CCTV metadata for a live YOLO-based vision pipeline
 - [ ] Move the audit ledger from flat JSON to a proper time-series database
